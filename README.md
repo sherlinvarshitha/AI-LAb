@@ -19,25 +19,4 @@ LAB 09 : Implement Random Forest Ensemble Classifier using Lending Club Data
 
 LAB 10 : Implement K-Means Clustering using Iris Data
 
-Lab Code Notebooks
-LAB 01
 
-LAB 02
-
-LAB 03
-
-LAB 04
-
-LAB 05
-
-LAB 06
-
-LAB 07
-
-LAB 08
-
-LAB 09
-
-LAB 10
-
-LAB 11
